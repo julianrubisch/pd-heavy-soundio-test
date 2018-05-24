@@ -1,0 +1,1 @@
+`gcc -w -lc++ -o heavy_soundio_test  heavy_soundio_test.c Heavy*.cpp Hv*.cpp Hv*.c -lsoundio`
